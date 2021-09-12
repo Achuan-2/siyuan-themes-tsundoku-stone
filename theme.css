@@ -209,6 +209,7 @@
 .protyle-wysiwyg .code-block,
 div[style*="background-color: var" ],
 strong[style*="background-color: var" ],
+.layout__empty,
 mark,
 .emojis,
 .b3-menu,
