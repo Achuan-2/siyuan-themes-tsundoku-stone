@@ -221,7 +221,9 @@ mark,
     background-image: url('src/paper.png');
 }
 
-
+.b3-dialog__container {
+    background-color: #f0f3f5;
+}
 /* 主要背景色 */
 
 .dock {
