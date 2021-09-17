@@ -19,20 +19,25 @@
 
 ![preview](preview.png)
 
-> 🎠 这可能不会是最符合你审美的主题，但或许会是一个最追求极致体验的主题（之一）！
+> 🎠 This may not be the most aesthetically pleasing theme for you, but perhaps it will be one of the most sought-after themes for the ultimate experience！
 > 
-> Others Themes: 🌞[Tsundoku Light](https://github.com/Achuan-2/siyuan-themes-tsundoku-texture) | 🌛 [Tsundoku Dark ](https://github.com/Achuan-2/siyuan-themes-tsundoku) | 🥗[Tsundoku Green](https://github.com/Achuan-2/siyuan-themes-tsundoku-green)
+> Others Themes: 🌞[Tsundoku Light](https://github.com/Achuan-2/siyuan-themes-tsundoku-texture) | 🌙 [Tsundoku Dark ](https://github.com/Achuan-2/siyuan-themes-tsundoku) | 🥗[Tsundoku Green](https://github.com/Achuan-2/siyuan-themes-tsundoku-green)
 
-## 💌 **缘起**
+## 💌 Origin
 
-Tsundoku “積 ん 読”是日语里的一个词，维基百科是这样解释的“Tsundoku is acquiring reading materials but letting them pile up in one's home without reading them. It is also used to refer to books ready for reading later when they are on a bookshelf.”
+Tsundoku “積 ん 読” , a Japanese word，explained in Wikipedia as “Tsundoku is acquiring reading materials but letting them pile up in one's home without reading them. It is also used to refer to books ready for reading later when they are on a bookshelf.”
 
 > Any PKM approach that doesn’t tie into execution tools is destined to languish on the back burner forever
 
-我借此名来警醒自己，希望思源能帮助我成长，帮我更好的完成任务，而不是又成为一个缓解知识焦虑的积灰箱，满足我的数字化囤积症。
+I use this name to wake myself up and hope that SiYuan will help me make gradual progress and  get things done better, instead of becoming another dustbin for relieving intellectual anxiety and satisfying my digital hoarding disorder.
 
 
 
-## ✨主要特色
+
+## ✨Features
             
-* Tsundoku Light 的纸张纹理版本
+* [Tsundoku Light](https://github.com/Achuan-2/siyuan-themes-tsundoku-light) 的纸张纹理版本![paper](https://user-images.githubusercontent.com/60436214/132967122-dfcc44ec-9e68-4657-83b6-3ff5831fa7ae.png)
+
+## ☎️Feedback
+
+若主题存在样式的问题，欢迎在此repo提issue或是通过邮箱联系我(achuan-2@outlook.com)。在提issue之前建议先切换为默认主题，确定是本主题特有的问题。
