@@ -530,7 +530,10 @@ div[data-type='block-render'] {
     border-left: 0px dashed #dfe0e1;
     margin:10px 0px;
     background-color: transparent;
+    padding: 0px 15px;
+
 }
+
 .protyle-wysiwyg__embed {
     border-top: 3px dashed #0e5d12d6;
     position: relative;
