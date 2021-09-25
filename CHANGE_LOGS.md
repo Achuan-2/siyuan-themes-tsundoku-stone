@@ -1,6 +1,7 @@
 ## v0.8.3/2021-09-25
 * ✨ net hyperlink default icon
 * 🍱 add new link icons
+* 💄 add border for inline-code
 
 
 ## v0.0.9/2021-09-24
