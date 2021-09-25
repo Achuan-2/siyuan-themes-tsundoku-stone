@@ -2,6 +2,7 @@
 * ✨ net hyperlink default icon
 * 🍱 add new link icons
 * 💄 add border for inline-code
+* 💄 increase kbd font size
 
 
 ## v0.0.9/2021-09-24
