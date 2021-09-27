@@ -17,6 +17,8 @@
           <img src="https://img.shields.io/github/last-commit/Achuan-2/siyuan-themes-tsundoku-texture" alt="GitHub last commit">
 </p>
 
+<p align="center">English |<a href="https://www.yuque.com/achuan-2/siyuan/fqew9h"> 中文介绍</a></p>
+
 [SiYuan](https://github.com/siyuan-note/siyuan) is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. This is a theme for it.  
 ![preview](preview.png)
 
@@ -36,9 +38,12 @@ I use this name to wake myself up and hope that SiYuan will help me make gradual
 
 
 ## ✨Features
-            
-* [Tsundoku Light](https://github.com/Achuan-2/siyuan-themes-tsundoku-light) 的纸张纹理版本![paper](https://user-images.githubusercontent.com/60436214/132967122-dfcc44ec-9e68-4657-83b6-3ff5831fa7ae.png)
 
+This theme is based on the original theme [Tsundoku Light](https://github.com/Achuan-2/siyuan-themes-tsundoku-light) , adding a paper texture effect ![paper](https://user-images.githubusercontent.com/60436214/132967122-dfcc44ec-9e68-4657-83b6-3ff5831fa7ae.png)
 ## ☎️Feedback
 
-若主题存在样式的问题，欢迎在此repo提issue或是通过邮箱联系我(achuan-2@outlook.com)。在提issue之前建议先切换为默认主题，确定是本主题特有的问题。
+If there is a problem with the style of the theme, welcome to raise an issue in this repo or contact me via email (achuan-2@outlook.com). Before raising an issue, it is recommended to switch to the default theme to make sure it is a problem specific to this theme.
+
+## 🚀Change Log
+
+See [CHANGE_LOGS](CHANGE_LOGS.md)
