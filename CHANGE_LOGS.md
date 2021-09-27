@@ -1,10 +1,20 @@
-## v0.8.4/2021-09-26
+## v.1.2/2021-09-27
+
+* 🍱add vscode link icon
+* 💄adjust opacity for link icon in completed task list
+* 💄add background color when mouse hovering new file icon
+* 💄add placeholder text "To-do" for empty task list, like notion
+* 📝 readme
+  * change to English
+  * add Yuque link
+
+## v0.1.1/2021-09-26
 * ✨ change new file icon
 * 🍱 add new link icons
 * 💄 optimize the size of file icons
 
 
-## v0.8.3/2021-09-25
+## v0.1.0/2021-09-25
 * ✨ net hyperlink default icon
 * 🍱 add new link icons
 * 💄 add border for inline-code
