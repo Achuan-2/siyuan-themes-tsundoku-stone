@@ -525,7 +525,11 @@ strong {
 div[data-type='block-render'] {
     margin-top: 5px;
 }
+/* 块引弹窗固定高度 */
 
+.block__popover.block__popover--move.block__popover--open{
+    height: 70%;
+}
 /* 块嵌入 */
 .protyle-wysiwyg [data-node-id].render-node[data-type="NodeBlockQueryEmbed"] {
     box-shadow: 0px 0px 3px 2px rgb(135 148 186 / 38%);
