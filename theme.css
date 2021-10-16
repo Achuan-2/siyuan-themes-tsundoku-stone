@@ -3184,3 +3184,8 @@ rotyle-wysiwyg [data-node-id][custom-f="20"]  div[contenteditable="true"]:after 
 .protyle-wysiwyg [data-node-id].hr>div {
     border-bottom: 2px solid #bbc1c18c;
 }
+
+.protyle-wysiwyg [data-node-id].li>[data-node-id]:before{
+    background-color: #ccd4d1;
+    width:0.95px;
+}
