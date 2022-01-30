@@ -2,12 +2,6 @@
 
 <p align="center">          
            <a title="Hits" target="_blank" href="https://github.com/Achuan-2/siyuan-themes-tsundoku-texture"><img src="https://hits.b3log.org/Achuan-2/siyuan-themes-tsundoku-texture.svg" ></a>
-           <a href="https://gitmoji.dev">
-             <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
-           </a>
-           <a href="https://github.com/Achuan-2/siyuan-themes-tsundoku-texture/releases">
-                      <https://img.shields.io/github/release/Achuan-2/siyuan-themes-tsundoku-texture.svg" alt="Release">
-           </a>
            <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-themes-tsundoku-texture" alt="stars">
            <img src="https://img.shields.io/github/issues-raw/Achuan-2/siyuan-themes-tsundoku-texture" alt="open-issues">
            <img src="https://img.shields.io/github/issues-closed-raw/Achuan-2/siyuan-themes-tsundoku-texture" alt="closed-issues">
