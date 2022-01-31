@@ -8,33 +8,46 @@
           <img src="https://img.shields.io/github/last-commit/Achuan-2/siyuan-themes-tsundoku-texture" alt="GitHub last commit">
 </p>
 
-<p align="center">English |<a href="https://www.yuque.com/achuan-2/siyuan/fqew9h"> 中文介绍</a></p>
+<p align="center">中文介绍 |<a href="README_EN.md"> English</a></p>
 
-[SiYuan](https://github.com/siyuan-note/siyuan) is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. This is a theme for it.  
-![preview](preview.png)
+<p align="center"><a href="https://github.com/Achuan-2/siyuan-themes-tsundoku-dark"> 🌙Tsunoku Dark </a> |<a href="https://github.com/Achuan-2/siyuan-themes-tsundoku-light">🌞Tsunoku Light </a>|  🧱Tsunoku Stone |<a href="https://github.com/Achuan-2/siyuan-themes-tsundoku-green"> 🍃Tsunoku Green </a></p>
 
-> 🎠 This may not be the most aesthetically pleasing theme for you, but perhaps it will be one of the most sought-after themes for the ultimate experience！
-> 
-> Others Themes: 🌞[Tsundoku Light](https://github.com/Achuan-2/siyuan-themes-tsundoku-light) | 🌙 [Tsundoku Dark ](https://github.com/Achuan-2/siyuan-themes-tsundoku) | 🥗[Tsundoku Green](https://github.com/Achuan-2/siyuan-themes-tsundoku-green)
-
-## 💌 Origin
-
-Tsundoku “積 ん 読” , a Japanese word，explained in Wikipedia as “Tsundoku is acquiring reading materials but letting them pile up in one's home without reading them. It is also used to refer to books ready for reading later when they are on a bookshelf.”
-
+## 💌 缘起
+Tsundoku “積 ん 読”是日语里的一个词，维基百科是这样解释的“Tsundoku is acquiring reading materials but letting them pile up in one's home without reading them. It is also used to refer to books ready for reading later when they are on a bookshelf.” 简单说就是买书成瘾却不读的行为。
 > Any PKM approach that doesn’t tie into execution tools is destined to languish on the back burner forever
 
-I use this name to wake myself up and hope that SiYuan will help me make gradual progress and  get things done better, instead of becoming another dustbin for relieving intellectual anxiety and satisfying my digital hoarding disorder.
+我借此名来警醒自己，希望能利用好思源笔记，帮助我养成每日记录、定期回顾复盘的习惯，更好地掌握知识和技能，争取做有意义的项目，变成更优秀的人，而不是为了记笔记而笔记，让笔记软件成为一个个缓解知识焦虑的积灰箱，满足变态的数字化囤积症。
+
+## ✨主题样式优化
+
+- 📋标题样式优化，一级标题居中、三级标题添加左侧竖线，添加标题的区别度
+  ![20220131225157_2022-01-31](https://cdn.jsdelivr.net/gh/Achuan-2/PicBed@pic/assets/README/20220131225157_2022-01-31.png)
+- 💻仿MAC的代码块样式
+    ![](image/README/1643640889451.png)
+- ✅任务列表样式优化：当把任务列表勾选时，普通文字变色加删除线，并针对完成的任务列表中的各个行内和块样式都做了一定处理。完成的任务列表中的图片和代码块透明度降低
+  ![20220131225512_2022-01-31](https://cdn.jsdelivr.net/gh/Achuan-2/PicBed@pic/assets/README/20220131225512_2022-01-31.png)
+- 🎨文字颜色和背景色选框样式优化、颜色配色调整![20220131225534_2022-01-31](https://cdn.jsdelivr.net/gh/Achuan-2/PicBed@pic/assets/README/20220131225534_2022-01-31.png)
+- 😀win端和安卓端emoji样式统一：修改安卓端的默认 emoji 为 Win 10 emoji——Segoe UI Emoji，保持手机电脑预览笔记emoji样式统一
 
 
+## 💥主题特色功能
+- **为超链接添加了icon**：区别不同的本地链接和网络链接，详见[超链接图标介绍](https://www.yuque.com/achuan-2/siyuan/gar358)
+  ![20220131225611_2022-01-31](https://cdn.jsdelivr.net/gh/Achuan-2/PicBed@pic/assets/README/20220131225611_2022-01-31.png)
+- **引入语雀提示区块**：给引述块blockquote添加块背景颜色，就会自动应用样式，详见[语雀提示区块样式](https://www.yuque.com/achuan-2/siyuan/obxpvr)
+  ![20220131225631_2022-01-31](https://cdn.jsdelivr.net/gh/Achuan-2/PicBed@pic/assets/README/20220131225631_2022-01-31.png)
+- 引入文本折叠和挖空块功能
+  - **文本遮挡**：暂时将高亮Ctrl+E,设置为文本遮挡效果：悬浮时才显示高亮的文字，默认隐藏文字 
+    - 如果需要取消该效果，请在主题 css 中搜索「挖空」关键词，将所提示的代码删除
+  ![20220131225654_2022-01-31](https://cdn.jsdelivr.net/gh/Achuan-2/PicBed@pic/assets/README/20220131225654_2022-01-31.png)
+  - **添加了自定义块属性样式——挖空块**
+    - 属性 key ： f（简写）或function
+    - value ：hide或挖空
+    - 使用方式：单击块标选择打开属性列表或Shift+Click打开，点击添加，输入属性名为f或function，并输入相应的属性值（hide或挖空）![](https://cdn.jsdelivr.net/gh/Achuan-2/Picbed@pic/assets/1643641180054%E6%80%9D%E6%BA%90stone%E6%8C%96%E7%A9%BA.gif)
 
+## 🚀更新情况
 
-## ✨Features
+见[📃Tsundoku Light 更新日志](https://www.yuque.com/achuan-2/siyuan/bkq4s2)
 
-This theme is based on the original theme [Tsundoku Light](https://github.com/Achuan-2/siyuan-themes-tsundoku-light) , adding a paper texture effect ![paper](https://user-images.githubusercontent.com/60436214/132967122-dfcc44ec-9e68-4657-83b6-3ff5831fa7ae.png)
-## ☎️Feedback
+## ☎️意见交流
 
-If there is a problem with the style of the theme, welcome to raise an issue in this repo or contact me via email (achuan-2@outlook.com). Before raising an issue, it is recommended to switch to the default theme to make sure it is a problem specific to this theme.
-
-## 🚀Change Log
-
-See [CHANGE_LOGS](CHANGE_LOGS.md)
+若主题存在样式的问题，欢迎在Github提issue或是通过邮箱联系我([achuan-2@outlook.com](mailto:achuan-2@outlook.com))。在提issue之前建议先切换为默认主题，确定是本主题特有的问题。

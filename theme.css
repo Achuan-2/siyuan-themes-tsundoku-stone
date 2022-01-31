@@ -499,10 +499,10 @@ strong {
 }
 
 
-.protyle-wysiwyg [data-node-id].bq strong, .b3-typography blockquote strong {
+/* .protyle-wysiwyg [data-node-id].bq strong, .b3-typography blockquote strong {
     color: rgba(0, 0, 0, 0.67);
 
-}
+} */
 /* blockquote 缩进调整 */
 .protyle-wysiwyg [data-node-id].bq > div{
     padding-left: 1rem;
@@ -2313,4 +2313,16 @@ rotyle-wysiwyg [data-node-id][custom-f="20"]  div[contenteditable="true"]:after 
 
 .b3-dialog__container{
     background-color: #dfe9ed;
+}
+.b3-typography em, .protyle-wysiwyg em,
+.protyle-wysiwyg strong,.b3-typography strong{
+    color: inherit;
+}
+.protyle-wysiwyg strong ,
+.b3-typography strong{
+    text-shadow: 0 0 0.5px #ffffff; 
+}
+.b3-typography s, .protyle-wysiwyg s{
+    color: inherit !important;
+    opacity: 0.5;
 }
