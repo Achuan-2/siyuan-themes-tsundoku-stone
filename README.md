@@ -46,7 +46,7 @@ Tsundoku “積 ん 読”是日语里的一个词，维基百科是这样解释
 
 ## 🚀更新情况
 
-见[📃Tsundoku Light 更新日志](https://www.yuque.com/achuan-2/siyuan/bkq4s2)
+见[📃Tsundoku 主题更新日志](https://www.yuque.com/achuan-2/siyuan/bkq4s2)
 
 ## ☎️意见交流
 
