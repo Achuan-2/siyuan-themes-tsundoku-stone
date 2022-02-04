@@ -190,7 +190,7 @@
     --b3-menu-highlight-color: #068eb8;
     --b3-menu-highlight-focus-color: #34495e;
     /* 文件树背景高亮颜色 */
-    --b3-menu-highlight-background: #abbeca;
+    --b3-menu-highlight-background: #c3d0d9;
     --b3-tab-custom-background: #e4ebec;
 }
 
@@ -993,6 +993,8 @@ div[data-subtype='t'][data-type='NodeList'] {
     padding-bottom: 0px;
     margin-bottom: 0px;
     width: 39px;
+    font-family: var(--b3-font-family-code);
+
 }
 
 .protyle-linenumber__rows::before{
