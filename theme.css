@@ -182,15 +182,15 @@
     --b3-protyle-inline-blockref-color: #0e7a88;
     --b3-protyle-inline-blockref-hover-color: #ff398b;
     /* 表格 */
-    --b3-table-border-color: #dfe0e1;
+    --b3-table-border-color: #d5dce2;
     --b3-table-th-color: #ccd5db;
     --b3-table-trn-color: #f0f5fa;
-    --b3-table-tr2n-color: #e4e8ec;
+    --b3-table-tr2n-color: #dfe9ec;
     /* 高亮 */
     --b3-menu-highlight-color: #068eb8;
     --b3-menu-highlight-focus-color: #34495e;
     /* 文件树背景高亮颜色 */
-    --b3-menu-highlight-background: #c3d0d9;
+    --b3-menu-highlight-background: #cad5dd;
     --b3-tab-custom-background: #e4ebec;
 }
 
@@ -269,7 +269,7 @@ div[style="background-color: var(--b3-font-background13);"]{
     background-color: #c3cfd6a9;
 }
 .toolbar {
-    background-color: #c3cfd6a9;
+    background-color: #c5d2d9;
 }
 .layout-tab-container {
     background-color: #dfe9eed8;
@@ -422,8 +422,8 @@ div[style="background-color: var(--b3-font-background13);"]{
 }
 .protyle-wysiwyg table tr th, .b3-typography table tr th {
     border-collapse: separate;
-    border-left: 1px solid #dbe2e2;
-    border-right: 1px solid #dbe2e2;
+    border-left: 1px solid #c4c7cf;
+    border-right: 1px solid #c4c7cf;
     background-image: url('src/paper.png');
 
 }
@@ -1229,16 +1229,16 @@ div[data-subtype='t'][data-type='NodeList'] {
 }
 
 .b3-dialog__container .b3-list--background .b3-list-item--focus {
-    background-color: rgb(180 194 203 / 78%) !important;
+    background-color: var(--b3-menu-highlight-background) !important;
     border-radius: 16px 10% 10% 16px;
     /* border-radius: 10%; */
 }
 /* 调整设置的select按钮 */
 .b3-tab-container .b3-select {
-    background-color: #d8e0e5;
+    background-color: #d0dde5;
 }
 .b3-tab-container .b3-select option {
-    background-color: #f3f5f7;
+    background-color: #eaf1f3;
     border-radius: 10%;
 }
 .b3-tab-container .b3-select option:hover {
@@ -2302,7 +2302,11 @@ rotyle-wysiwyg [data-node-id][custom-f="20"]  div[contenteditable="true"]:after 
 .file-tree .b3-list.fn__flex-column.fn__flex-1>.b3-list-item:first-child{
     background-color:#beb6a6;
 }
-
+.layout__resize--lr {
+    background-color: #c7d3d7;
+    width: 2px;
+    margin: 0px -2px 0px 0px;
+}
 
 .layout__resize--lr:after{
     width: 3px;
