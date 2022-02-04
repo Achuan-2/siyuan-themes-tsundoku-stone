@@ -57,7 +57,7 @@
     /* 线条 */
     /* --b3-border-color: #dfe0e1; */
     /* --b3-border-color: rgba(0, 0, 0, .1); */
-    --b3-border-color: #e3e5e5;
+    --b3-border-color: #d9e0e0;
 
     /* 滚动条 m */
     /* --b3-scroll-color: rgba(0, 0, 0, .2); */
@@ -669,7 +669,7 @@ div[data-type='NodeBlockQueryEmbed'] .ft__secondary {
     margin:0px 2px;
     background: var(--b3-protyle-inline-code-background);
     color: #3f5d86;
-    border: 1px solid #c6c6c73f;
+    border: 1px solid #a9a9ac3f;
 }
 
 /* 超链接 */
