@@ -1328,7 +1328,8 @@ div[data-subtype='t'][data-type='NodeList'] {
     /* margin-right: 2px; */
     background-color: #d5dde270;
     box-shadow: 1px 4px 2px 0 var(--b3-theme-background);
-    /* transition: all 0.1s ease; */
+    transition: background-color 0.1s ease-in-out;
+
 }
 
 /* 选中的标签页 */
@@ -1398,6 +1399,9 @@ div[data-subtype='t'][data-type='NodeList'] {
 .protyle-preview__action button:hover {
     background-color: transparent;
 
+}
+.layout-tab-bar .item__text{
+    padding: 4px 0px 0px 8px;
 }
 /* ----------------------------标签页样式 END----------------------------------------- */
 
