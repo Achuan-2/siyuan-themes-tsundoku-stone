@@ -2,10 +2,10 @@
 
 <p align="center">          
            <a title="Hits" target="_blank" href="https://github.com/Achuan-2/siyuan-themes-tsundoku-texture"><img src="https://hits.b3log.org/Achuan-2/siyuan-themes-tsundoku-texture.svg" ></a>
-           <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-themes-tsundoku-texture" alt="stars">
-           <img src="https://img.shields.io/github/issues-raw/Achuan-2/siyuan-themes-tsundoku-texture" alt="open-issues">
-           <img src="https://img.shields.io/github/issues-closed-raw/Achuan-2/siyuan-themes-tsundoku-texture" alt="closed-issues">
-          <img src="https://img.shields.io/github/last-commit/Achuan-2/siyuan-themes-tsundoku-texture" alt="GitHub last commit">
+           <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-themes-tsundoku-stone" alt="stars">
+           <img src="https://img.shields.io/github/issues-raw/Achuan-2/siyuan-themes-tsundoku-stone" alt="open-issues">
+           <img src="https://img.shields.io/github/issues-closed-raw/Achuan-2/siyuan-themes-tsundoku-stone" alt="closed-issues">
+          <img src="https://img.shields.io/github/last-commit/Achuan-2/siyuan-themes-tsundoku-stone" alt="GitHub last commit">
 </p>
 
 <p align="center">中文介绍 |<a href="README_EN.md"> English</a></p>
