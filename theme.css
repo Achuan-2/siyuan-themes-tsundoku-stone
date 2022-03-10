@@ -947,6 +947,7 @@ div[data-subtype='t'][data-type='NodeList'] {
 }
 /* -------------------------------代码块样式-------------------------------------- */
 
+
 .protyle-reset .hljs,
 .protyle-wysiwyg .hljs ,.b3-typography .hljs{
     padding-top: 4px !important;
@@ -955,25 +956,27 @@ div[data-subtype='t'][data-type='NodeList'] {
     font-family: var(--b3-font-family-code);
     background-size: 20px 20px;
     background-image: none !important;
-    background: transparent;
+    background: var(--b3-protyle-code-background);
+
 }
 
 .code-block {
     position: relative;
     display: block;
     border-radius: 4px;
-    background: var(--b3-protyle-code-background) ;
+    background: #e4e8ee ;
+    /* border: 1.5px solid rgb(0 0 0 / 8%); */
+    box-shadow:  0 0 0 1px rgb(0 0 0 / 8%);
     /* margin-top: 15px !important; */
     padding-top: 32px !important;
-    box-shadow:  0 0 0 1px rgb(0 0 0 / 8%);
-
-
 }
+
+
 /* .code-block .protyle-action {
     position: relative;
+    .hljs::before
 } */
-
-.code-block:after {
+.code-block::after{
     content: ' ';
     position: absolute;
     background: #fa625c;
@@ -990,18 +993,14 @@ div[data-subtype='t'][data-type='NodeList'] {
 
 /*  代码块行数*/
 .protyle-linenumber__rows {
-    margin-top: 32px !important;
-    background-color:var(--b3-protyle-code-background);
-    background-image: url('src/paper.png');
-
-    /* padding-right:10px; */
-    /* padding-bottom: 0px; */
-    /* margin-bottom: 0px; */
-    /* width: 39px; */
+    margin-top: 3em !important;
+    background-color: var(--b3-protyle-code-background);
     font-family: var(--b3-font-family-code);
+    opacity: 0.5;
+    width: 40px;
+    left:0px;
+    font-size: 0.6em;
 }
-
-
 
 
 /* 代码语言显示 */
