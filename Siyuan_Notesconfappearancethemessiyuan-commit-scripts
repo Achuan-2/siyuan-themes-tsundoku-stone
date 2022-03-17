@@ -1,0 +1,176 @@
+* [31m990d873[m -[33m (HEAD -> main, origin/main)[m :bug: h3标题折叠跳动 [32m(20 seconds ago) [1;34m<Achuan-2>[m
+* [31m911de33[m -[33m[m :bento: change qq svg [32m(20 hours ago) [1;34m<Achuan-2>[m
+* [31m3afe592[m -[33m[m :bug: ncbi link icon [32m(20 hours ago) [1;34m<Achuan-2>[m
+* [31m493cd30[m -[33m[m :bug: ncbi link icon [32m(23 hours ago) [1;34m<Achuan-2>[m
+* [31m2211fcb[m -[33m[m :bento: [link icon]update default link icon [32m(2 days ago) [1;34m<Achuan-2>[m
+* [31ma925a25[m -[33m (tag: v1.1.4)[m :memo: Readme [32m(3 days ago) [1;34m<Achuan-2>[m
+* [31m0f7ae20[m -[33m[m :sparkles: 语雀提示区块的表格样式匹配 [32m(3 days ago) [1;34m<Achuan-2>[m
+* [31mf91474a[m -[33m[m :bug: 修复代码块新样式在引述块中的padding问题 [32m(3 days ago) [1;34m<Achuan-2>[m
+* [31m41785cf[m -[33m[m :bug: 修复代码块新样式在引述块中的padding问题 [32m(5 days ago) [1;34m<Achuan-2>[m
+* [31ma5c903d[m -[33m[m :bug: 修复代码块行号适配问题 [32m(7 days ago) [1;34m<Achuan-2>[m
+* [31m26b8cb6[m -[33m[m :bug: 修复代码块行号手机适配问题 [32m(7 days ago) [1;34m<Achuan-2>[m
+* [31maf6ec5e[m -[33m[m :bookmark: v1.1.3 完善代码块和引述块样式 [32m(7 days ago) [1;34m<Achuan-2>[m
+* [31md4157f2[m -[33m[m :lipstick: [32m(7 days ago) [1;34m<Achuan-2>[m
+* [31m469d7b3[m -[33m[m :memo: [docs] fix last commit badge [32m(8 days ago) [1;34m<Achuan-2>[m
+* [31me0c0303[m -[33m[m :art: [theme.css] reorganize [32m(8 days ago) [1;34m<Achuan-2>[m
+* [31m420c53a[m -[33m[m :lipstick: optimize link underline [32m(8 days ago) [1;34m<Achuan-2>[m
+* [31m52cf3c7[m -[33m (tag: v1.1.2)[m :lipstick: optimize link underline [32m(8 days ago) [1;34m<Achuan-2>[m
+* [31m5608e1d[m -[33m[m :lipstick: add f:bg style [32m(8 days ago) [1;34m<Achuan-2>[m
+* [31m464d9f6[m -[33m[m :bookmark: v1.1.2 [32m(8 days ago) [1;34m<Achuan-2>[m
+* [31m90e7129[m -[33m[m :lipstick: add list->table,modify blockquote [32m(8 days ago) [1;34m<Achuan-2>[m
+* [31m8672ca1[m -[33m (tag: v1.1.1)[m :lipstick:取消页签动画 [32m(11 days ago) [1;34m<Achuan-2>[m
+* [31m5d1ea4d[m -[33m[m :bookmark: v1.1.1 [32m(11 days ago) [1;34m<Achuan-2>[m
+* [31m375b9e7[m -[33m[m :bookmark: v1.1.1 [32m(11 days ago) [1;34m<Achuan-2>[m
+* [31m837ea5f[m -[33m[m :sparkles:add ol custom style [32m(2 weeks ago) [1;34m<Achuan-2>[m
+* [31m24c63ed[m -[33m (tag: v1.1.0)[m :bookmark: v1.1.0 [32m(4 weeks ago) [1;34m<Achuan-2>[m
+* [31m6e3721c[m -[33m[m :bookmark: v1.1.0 [32m(4 weeks ago) [1;34m<Achuan-2>[m
+* [31m338736f[m -[33m[m :bookmark: v1.1.0 [32m(4 weeks ago) [1;34m<Achuan-2>[m
+* [31ma957cb8[m -[33m[m :memo:[Readme]添加行内备注信息 [32m(5 weeks ago) [1;34m<Achuan-2>[m
+* [31m550e138[m -[33m[m :lipstick: 更新亮色主题选中的标签页样式 [32m(5 weeks ago) [1;34m<Achuan-2>[m
+* [31m904d519[m -[33m[m :memo: win10emoji替换为win11emoji [32m(5 weeks ago) [1;34m<Achuan-2>[m
+* [31mbb3213f[m -[33m[m ✨ win10emoji替换为win11emoji [32m(5 weeks ago) [1;34m<Achuan-2>[m
+* [31m1a47f7a[m -[33m[m :bento: win10emoji替换为win11emoji [32m(5 weeks ago) [1;34m<Achuan-2>[m
+* [31mf0fd88e[m -[33m[m :fire: 更新win11，取消删除特定emoji [32m(5 weeks ago) [1;34m<Achuan-2>[m
+* [31m127869f[m -[33m[m :bookmark: v1.0.9 [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31mc6e85e6[m -[33m[m :lipstick: 修改border color [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m7bd536f[m -[33m[m :lipstick: 修改标签背景色 [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m57e4cb8[m -[33m[m :lipstick: 修改配色 [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m6baecf9[m -[33m[m :memo:[docs]remove useless mail link [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m874490a[m -[33m[m :bento:[link icon]add qun.qq.com [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m0771b48[m -[33m[m :pencil2: [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m22ac52e[m -[33m[m :fire: 去除assets文件夹 [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m3420910[m -[33m[m 📸 更新preview.png [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m796cc51[m -[33m[m :bookmark: v1.0.8 :memo: [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31mda01250[m -[33m[m :memo: 🧱Tsunoku Stone [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m39fa4a1[m -[33m[m :memo: 更改Tsundoku Texture主题名为Tsundoku Stone [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m2f6f49f[m -[33m[m :bookmark: v1.0.8 [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m9bf4d83[m -[33m[m ✨ 更改配色 [32m(6 weeks ago) [1;34m<Achuan-2>[m
+* [31m6123a91[m -[33m[m 🎨 Reorganize [32m(7 weeks ago) [1;34m<Achuan-2>[m
+* [31md29c403[m -[33m[m :bookmark: v0.3.4 💄调整标签页样式 [32m(9 weeks ago) [1;34m<Achuan-2>[m
+* [31m49ef6ed[m -[33m[m :bookmark: v0.3.3 文档树图标微调 [32m(9 weeks ago) [1;34m<Achuan-2>[m
+* [31m2cbead4[m -[33m[m :bookmark: v0.3.3 文档树图标微调 [32m(9 weeks ago) [1;34m<Achuan-2>[m
+* [31m1bb3a9a[m -[33m[m :bookmark: v0.3.2 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31m15af493[m -[33m[m :bookmark: v0.3.1 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31md92f7f6[m -[33m[m :bookmark: v1.0.3 ✨分割线样式完善 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31m3d88575[m -[33m[m :lipstick: 调整全局字体大小 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31m3fdca6d[m -[33m[m ✨更改默认字体为HarmonyOS_Sans_SC [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31m3aa9207[m -[33m[m :bookmark: v0.3.0 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31md6d4a14[m -[33m[m :bookmark: v0.2.9 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31m4b8ca09[m -[33m[m :bookmark: v1.0.2 🐛 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31mf8011fb[m -[33m[m :bookmark: v0.2.9 [32m(3 months ago) [1;34m<Achuan-2>[m
+* [31m8137498[m -[33m[m :lipstick: optimize note style [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m9242a2b[m -[33m[m :bookmark: v0.2.8 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m91a3d37[m -[33m[m :sparkles: add note style [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m75e9e8c[m -[33m[m :bug: 语雀提示区块不能给字体加颜色 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31ma515847[m -[33m[m :bookmark: v0.2.7 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31mf0ff999[m -[33m[m :bookmark: v0.2.7 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31md2fe301[m -[33m[m 🐛 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31md2250e2[m -[33m[m :bookmark: v0.2.6.1 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31ma197263[m -[33m[m :bookmark: v0.2.6 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m35bbd97[m -[33m[m 🍱[link icon] 微信读书和腾讯文档 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31mb2685cd[m -[33m[m 🐛link icon 图标透明度 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m7ede48a[m -[33m[m 🍱[link icon]添加flomo [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m9b23238[m -[33m[m :bookmark: v0.2.5 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m2327b53[m -[33m[m :bookmark: v0.2.4 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31mc08dae1[m -[33m[m :bookmark: v0.2.4 [32m(4 months ago) [1;34m<Achuan-2>[m
+* [31m3a1e732[m -[33m[m :bookmark: 0.2.3 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m46f9ab9[m -[33m[m 🔖 0.2.2 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m6d48519[m -[33m[m 🍱link icon添加w3school,zhangxunxu [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m86c7f2a[m -[33m[m 💄 调整列表竖线 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31me53f804[m -[33m[m 💄 分割线 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m52150b2[m -[33m[m 🔖 v0.2.1 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mc5d61c9[m -[33m[m 🔖 v0.2.0 fix bugs [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31md90a65a[m -[33m[m :bookmark: v0.9.2  fix bugs [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m4f4254f[m -[33m[m 🐛 修复挂件折叠和其他特殊块折叠的问题 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m8d2acd9[m -[33m[m  🐛 块引固定高度为70%改为最小高度为30% [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mbec392f[m -[33m[m :bento:  (link icon)add 新片场 icon [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31me984379[m -[33m[m 🐛 折叠块标z-index修正 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31me63c631[m -[33m[m 🍱 link icon添加分秒帧图标 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mdc187d8[m -[33m[m 🔖 v0.1.8 fix bugs [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m4a1b4ce[m -[33m[m ✨ 优化超链接换行 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31me0f7885[m -[33m[m 🐛 修复面板收缩的留白问题 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mbcbdbc8[m -[33m[m 🐛提及面板向上按钮悬浮会发生抖动 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mba97146[m -[33m[m 🐛 修复引述块中列表缩进问题 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m272895f[m -[33m[m 🐛 完善点击图片块显示阴影的逻辑 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mccaabe5[m -[33m[m :bookmark: v0.9.0 引入语雀提示区块：warning，info，success，danger [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m19d7eac[m -[33m[m :bookmark: v0.8.9 引入语雀提示区块：warning，info，success，danger [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mf73711d[m -[33m[m ✨ 引入语雀提示区块，优化块折叠样式 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m3438f00[m -[33m[m  ✨块引固定高度为70% [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31mc94b904[m -[33m[m :bookmark: v0.8.9 块折叠优化 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m0a30579[m -[33m[m :bookmark: v0.8.9 块折叠优化 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m7590027[m -[33m[m :bookmark: v0.8.9 块折叠优化 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m46de952[m -[33m[m :bookmark: v0.8.9 块折叠优化 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m5495fe5[m -[33m[m :bookmark: v0.1.5 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31ma8afd86[m -[33m[m 🐛 修复嵌入块在列表中不缩进的问题 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m3a2b2f8[m -[33m[m 💄 调低空行提示透明度 [32m(5 months ago) [1;34m<Achuan-2>[m
+* [31m393a671[m -[33m[m :bookmark: v0.8.7 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m75f863c[m -[33m[m 💄 代码块编辑时不闪 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m7918919[m -[33m[m :bookmark: v0.1.4 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m0526478[m -[33m[m 🔖 0.1.3 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m36d1eb1[m -[33m[m pdf矩形选框增加border宽度 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m77fb68c[m -[33m[m 🐛修复空列表提示嵌套问题 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m2be7084[m -[33m[m ✨ distinguish parent doc and no-child doc, canel the hidden effect of arrow and dot before doc [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mdd9d3bd[m -[33m[m ✨ empty list placeholder [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m8c834df[m -[33m[m ✨ empty list placeholder [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m4f3470e[m -[33m[m :memo: [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m06e977f[m -[33m[m :bookmark: v0.1.2 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m84a44a8[m -[33m[m :bento: add vscode link icon [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m562d318[m -[33m[m :camera: update preview img [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m63a0a5f[m -[33m[m :memo: optimize readme [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31ma5d6c28[m -[33m[m :bookmark: v0.1.1 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m23026d4[m -[33m[m :bento: add new link icons [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m08fe258[m -[33m[m 💄 increase kbd font size [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mcbdc4e9[m -[33m[m 💄 add border for inline-code [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mf3a9877[m -[33m[m :bookmark: v0.1.0 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m239e403[m -[33m[m :sparkles: add new link icons [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m39b3350[m -[33m[m :bento: add new link icons [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mb6d2c21[m -[33m[m ✨ default net link icon [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mef36fad[m -[33m[m :bento: add discord icon [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m2b81f98[m -[33m[m 🐛 fix deleting problem of tag [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m553d280[m -[33m[m :bookmark: v0.0.9 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m2bfba30[m -[33m[m ✨ add local protocol icon! [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mc149da6[m -[33m[m :bento: add local protocol icon [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31me0e350a[m -[33m[m :sparkles: link icon! [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m942050b[m -[33m[m :bento: add link icon [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mfac61e0[m -[33m (tag: v0.0.8)[m 💄 tag 取消后面的#号标识 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m5a71857[m -[33m[m :bookmark: v0.0.8 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31md57b32f[m -[33m[m Revert ":bookmark: v0.8.1" [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m51dd6a3[m -[33m[m :bookmark: v0.8.1 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m6672a3f[m -[33m[m :lipstick: Optimize pdf style [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mc12effc[m -[33m (tag: v0.0.7)[m :bookmark: v0.0.7 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m4873cb5[m -[33m[m 💄图片 hover 加阴影|🔥pdf 双链取消 🔖前缀 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31ma9953bd[m -[33m[m :lipstick: 更改设置链接颜色 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31me059938[m -[33m (tag: v0.0.6)[m :bookmark: v0.0.6 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mc87517a[m -[33m[m 🔥 取消嵌入块负margin [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m44c5421[m -[33m (tag: v0.0.5)[m :bookmark: v0.0.5 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mb13c519[m -[33m[m Revert ":bookmark: v0.1.8" [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m4ef7a59[m -[33m[m :bookmark: v0.1.8 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mf01f9ce[m -[33m[m 🐛 修复行内代码设置为inline-flex的问题 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mdc19f85[m -[33m[m 💄 调整块嵌入内边距和外边距 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m3ffe519[m -[33m[m :lipstick: 添加嵌入块内间距 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m0ab1b03[m -[33m (tag: v0.0.4)[m :bookmark: v0.0.4 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m8bcab00[m -[33m[m 💄更改双链和pdf双链样式 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m9f60825[m -[33m[m 📸 update preview.png [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m0642fe1[m -[33m (tag: v0.0.3)[m ✏add SiYuan info [32m(6 months ago) [1;34m<Achuan>[m
+* [31m1627675[m -[33m[m ✏ [32m(6 months ago) [1;34m<Achuan>[m
+* [31m0648add[m -[33m[m ✏完善Readme [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31md4f6455[m -[33m[m :bookmark: v0.0.3 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m6b46342[m -[33m[m 🎨完善自定义属性，添加key为f的简写 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m91f2bd4[m -[33m[m 🐛 区分侧栏聚焦和未聚焦状态 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m1c84cc7[m -[33m[m 💄 调整pdf双链样式与块引用区别 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m71c4fa4[m -[33m[m :bookmark: v0.0.2 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mce903c0[m -[33m (tag: v0.0.2)[m v0.0.2 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mb74bda6[m -[33m[m :lipstick: 调整pdf双链及编辑器标注颜色弹窗样式 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m9344b36[m -[33m[m :lipstick: 调整颜色选框 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mdb7e6ad[m -[33m[m 💄 pdf双链标注样式调整 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mf42f678[m -[33m[m ✨ pdf块引样式优化 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m3348265[m -[33m[m :bug: 修复h3空行提示光标位置错位问题 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m221631c[m -[33m[m Update theme.css [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m199d66d[m -[33m[m :bug: fix h3 fold problem [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m525c1ae[m -[33m[m :bug: fix ref block inline block problem [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m9840d39[m -[33m[m Update theme.css [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m5a2e2ee[m -[33m[m :lipstick: [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m4538e79[m -[33m[m :tada: v0.0.1 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31mc847f3e[m -[33m[m :tada: v0.0.1 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m89964fb[m -[33m[m :tada: v0.0.1 [32m(6 months ago) [1;34m<Achuan-2>[m
+* [31m04b7e12[m -[33m[m Initial commit [32m(6 months ago) [1;34m<Achuan>[m
