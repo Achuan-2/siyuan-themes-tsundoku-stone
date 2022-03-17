@@ -1307,8 +1307,6 @@ div[data-subtype='t'][data-type='NodeList'] {
 }
 .layout-tab-bar .item {
     /* padding: 4px 4px 3px 14px; */
-    border: 0px;
-    border-bottom: 0px solid transparent;
     /* border-right: 2px solid #b7b8b97c;
     border-left: 2px solid #b7b8b97c; */
     border: 1px solid #bec7cf7c;
