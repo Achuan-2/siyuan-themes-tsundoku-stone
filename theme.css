@@ -1268,12 +1268,11 @@ div[data-subtype='t'][data-type='NodeList'] {
     border-top: 2px solid #555f63;
 }
 
-.layout-tab-bar .item:first-child,
+/* .layout-tab-bar .item:first-child,
 .layout-tab-bar .item--focus:first-child{
     border-radius: 0px 7px 7px 0px;
-    /* border-radius: 0px 7px 0px 0px; */
     border-left: 0px solid #b7b8b97c;
-}
+} */
 
 
 
