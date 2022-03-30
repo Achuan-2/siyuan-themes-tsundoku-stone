@@ -20,10 +20,10 @@
     padding-left: 16px;
     font-family: var(--b3-font-family-code);
     background-size: 20px 20px;
-    background-image: none !important;
-    /* background: var(--b3-protyle-code-background); */
+     /* background-image: none !important; */
+    background: var(--b3-protyle-code-background);
+    /* background-color: var(--b3-theme-background); */
     border-radius: 0px 0px 4px 4px;
-    background-color: var(--b3-theme-background);
     background-image: url('../src/paper.png') !important;
 
 
@@ -33,12 +33,12 @@
     position: relative;
     display: block;
     border-radius: 4px;
-    background: #e4e8ee ;
+    background: #dae3ee ;
     /* border: 1.5px solid rgb(0 0 0 / 8%); */
     box-shadow:  0 0 0 1px rgb(0 0 0 / 8%);
     /* margin-top: 15px !important; */
     padding-top: 32px !important;
-    /* background-image: url('../src/paper.png') !important; */
+    background-image: url('../src/paper.png') !important;
     
 
 }

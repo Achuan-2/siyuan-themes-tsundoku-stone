@@ -175,7 +175,7 @@
     --b3-protyle-search-current-background: #a5d3fe;
 
     /* 代码片段背景 m */
-    --b3-protyle-code-background: #eaf0f3;
+    --b3-protyle-code-background: #f2f8fd;
 
     /* 所见即所得行内元素颜色 */
     --b3-protyle-inline-strong-color: #202124;
@@ -191,7 +191,7 @@
     --b3-protyle-inline-code-background: #e0e4e770;
     --b3-protyle-inline-blockref-color: #0e7a88;
     --b3-protyle-inline-blockref-hover-color: #ff398b;
-    --blockquote-border-color: #8e8e8e;
+    --blockquote-border-color: #8396a3;
     /* 表格 */
     --b3-table-border-color: #d5dce2;
     --b3-table-th-color: #ccd5db;
@@ -493,28 +493,30 @@ strong {
     color: inherit;
 }
 
-/* blockquote 引用 */
+/* blockquote 引述块 */
 /* 之前1.0.7之前的引用块样式 */
 /* .protyle-wysiwyg [data-node-id].bq, .b3-typography blockquote {
     border-left: 0.25em solid transparent;
     border-radius: 0.31em;
-    margin-top: 8px;
-} */
-/* .protyle-wysiwyg [data-node-id].bq:not([style*="color"]),
+}
+
+.protyle-wysiwyg [data-node-id].bq:not([style*="color"]),
 .b3-typography blockquote:not([style*="color"]) {
+    color: #7a7e82;
     background-image: url('src/blockquote.svg');
     background-size: 18px 18px;
     background-repeat: no-repeat;
-    background-color: #dce2e177;
+    background-color: #e9eef0dc;
 } */
-/* blockquote 引用 */
+
 
 .protyle-wysiwyg [data-node-id].bq, .b3-typography blockquote {
-        border: 1px solid var(--blockquote-border-color);
+    /* border: 1px solid var(--blockquote-border-color); */
     border-left: 0.18em solid var(--blockquote-border-color);
-    background-color: #eff4f7;
-    background-image: url('src/paper.png');
-
+    background-color: #cddbdb70;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 /* .protyle-wysiwyg [data-node-id].bq strong, .b3-typography blockquote strong {
