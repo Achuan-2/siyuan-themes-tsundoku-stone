@@ -13,7 +13,7 @@
 }
 
 /* 第一层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul1.svg) no-repeat;
@@ -26,7 +26,7 @@
 }
 
 /* 第二层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul2.svg) no-repeat;
@@ -38,7 +38,7 @@
 }
 
 /* 第三层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul3.svg) no-repeat;
@@ -50,7 +50,7 @@
 }
 
 /* 第四层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul1.svg) no-repeat;
@@ -62,7 +62,7 @@
 }
 
 /* 第五层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul2.svg) no-repeat;
@@ -74,7 +74,7 @@
 }
 
 /* 第六层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul3.svg) no-repeat;
@@ -86,7 +86,7 @@
 }
 
 /* 第七层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul1.svg) no-repeat;
@@ -98,7 +98,7 @@
 }
 
 /* 第八层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul2.svg) no-repeat;
@@ -110,7 +110,7 @@
 }
 
 /* 第九层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul3.svg) no-repeat;
@@ -122,7 +122,7 @@
 }
 
 /* 第十层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul1.svg) no-repeat;
@@ -134,7 +134,7 @@
 }
 
 /* 第十一层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul2.svg) no-repeat;
@@ -146,7 +146,7 @@
 }
 
 /* 第十二层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul3.svg) no-repeat;
@@ -158,7 +158,7 @@
 }
 
 /* 第十三层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul1.svg) no-repeat;
@@ -170,7 +170,7 @@
 }
 
 /* 第十四层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul2.svg) no-repeat;
@@ -182,7 +182,7 @@
 }
 
 /* 第十五层级 */
-.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .protyle-action svg {
+.list[data-subtype="u"]>.li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"] .li[data-subtype="u"]>.protyle-action svg {
     color: transparent;
     background-color: var(--b3-theme-on-surface);
     -webkit-mask: url(../src/ul/ul3.svg) no-repeat;
