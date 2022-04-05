@@ -781,11 +781,6 @@ div[data-type='NodeBlockQueryEmbed'] .ft__secondary {
     padding: 0;
     margin: 0px 0px 0px 0px;
 }
-.protyle-wysiwyg [data-node-id].li>.p {
-    margin-left: 28px;
-    margin-top: 0;
-    margin-bottom: 0;
-}
 
 .b3-typography ul li.protyle-task::before {
     margin:2px 2px 0px -2px; 
@@ -1987,4 +1982,10 @@ strong[style="color: var(--b3-font-color5);"] {
 /* 修复一些按钮出现滚轮 */
 .b3-label .fn__flex-1 {
     overflow: hidden;
+}
+
+
+.b3-typography [data-subtype="flowchart"] svg,
+.protyle-wysiwyg [data-subtype="flowchart"] svg{
+    background-color: transparent;
 }
