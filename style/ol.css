@@ -20,7 +20,7 @@ div[data-subtype="o"].list {
 }
 
 .li[data-subtype="o"] .li[data-subtype="o"] .protyle-action::after {
-    color: #c9d1d9;
+    color: #64686d;
 }
 
 .li[data-subtype="o"][fold="1"] .protyle-action--order,
