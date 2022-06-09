@@ -182,7 +182,7 @@
 
 /* success */
 .bq[style*="background-color: var(--b3-card-success-background);"]   table thead tr{
-    background-color: #9fcc94d2 !important;
+    background-color: #9fcc949e !important;
 }
 .bq[style*="background-color: var(--b3-card-success-background);"]   table tbody tr:nth-child(2n + 1){
     background-color: var(--b3-card-success-background) !important;
