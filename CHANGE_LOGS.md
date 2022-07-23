@@ -1,3 +1,22 @@
+## v1.3.7/2022.07.16 
+- :bug: fix聚焦面包屑文字高亮
+- :lipstick: 导出优化：导出支持使用root下的font-family 变量，导出开头连续两个h1不分页,
+  ```css
+  /* 设置导出样式 */
+    @media print {
+        :root {
+            font-family: var(--b3-font-family);
+        }
+        .protyle-wysiwyg .h1:first-child {
+            color:black !important;
+        }
+        .protyle-wysiwyg .h1:not(:first-child, :nth-child(2)) {
+            page-break-before: always;
+        }
+
+    }
+  ```
+- :lipstick: Tsundoku Light引述块样式调整
 
 ## v1.3.6/2022.07.02 安卓端适配
 - :bug: 安卓端代码块行号位置错乱
