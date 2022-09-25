@@ -64,8 +64,8 @@ function addSidebarHoverButtonEven(fun) {
 /*SidebarHoverButton 按钮点击后执行事件*/
 function sidebarHoverButtonImplementEven() {
 	loadStyle(
-		"/appearance/themes/Tsundoku Stone/customizeStyle/customizeCss.css",
-		"customizeCss"
+		"/appearance/themes/Tsundoku Stone/style/topbar.css",
+		"topbarCss"
 	);
 
 	/**获取区域主体 */
@@ -108,7 +108,7 @@ function sidebarHoverButtonImplementEven() {
 			sidebarHoverButton.style.backgroundColor =
 				"var(--b3-theme-background-light)";
 			sidebarHoverButton.style.backgroundImage =
-				"url(/appearance/themes/Tsundoku Stone/customizeStyle/sidebar.svg)";
+				"url(/appearance/themes/Tsundoku Stone/src/sidebar.svg)";
 			// console.log(flag);
 		} else {
 			if (bar == "11") {
@@ -129,7 +129,7 @@ function sidebarHoverButtonImplementEven() {
 			flag = true;
 			sidebarHoverButton.style.backgroundColor = "transparent";
 			sidebarHoverButton.style.backgroundImage =
-				"url(/appearance/themes/Tsundoku Stone/customizeStyle/sidebar.svg)";
+				"url(/appearance/themes/Tsundoku Stone/src/sidebar.svg)";
 			// console.log(flag);
 		}
 	};
@@ -263,10 +263,7 @@ function openRightPanel() {
 /**------------------高亮变隐藏按钮-----------------*/
 
 function createHighlightBecomesHidden() {
-	loadStyle(
-		"/appearance/themes/Tsundoku Stone/customizeStyle/conceal-Mark.css",
-		"markCss"
-	);
+	loadStyle("/appearance/themes/Tsundoku Stone/style/mark-hide.css", "markCss");
 
 	highlightBecomesHiddenButton = addinsertCreateElement(
 		HBuiderXToolbar,
@@ -291,24 +288,24 @@ function highlightBecomesHiddenButtonClickEven() {
 
 	if (
 		obj.getAttribute("href") !=
-		"/appearance/themes/Tsundoku Stone/customizeStyle/conceal-Mark.css"
+		"/appearance/themes/Tsundoku Stone/style/mark-hide.css"
 	) {
 		obj.setAttribute(
 			"href",
-			"/appearance/themes/Tsundoku Stone/customizeStyle/conceal-Mark.css"
+			"/appearance/themes/Tsundoku Stone/style/mark-hide.css"
 		);
 		highlightBecomesHiddenButton.style.backgroundColor = "transparent";
 		highlightBecomesHiddenButton.style.backgroundImage =
-			"url(/appearance/themes/Tsundoku Stone/customizeStyle/highlight.svg)";
+			"url(/appearance/themes/Tsundoku Stone/src/highlight.svg)";
 	} else {
 		obj.setAttribute(
 			"href",
-			"/appearance/themes/Tsundoku Stone/customizeStyle/highlight-Mark.css"
+			"/appearance/themes/Tsundoku Stone/style/mark-display.css"
 		);
 		highlightBecomesHiddenButton.style.backgroundColor =
 			"var(--b3-theme-background-light)";
 		highlightBecomesHiddenButton.style.backgroundImage =
-			"url(/appearance/themes/Tsundoku Stone/customizeStyle/highlight.svg)";
+			"url(/appearance/themes/Tsundoku Stone/src/highlight.svg)";
 	}
 }
 
@@ -818,8 +815,8 @@ function Refresh() {
 		createHighlightBecomesHidden(); /*创建高亮变隐藏按钮 */
 
 		loadStyle(
-			"/appearance/themes/Tsundoku Stone/customizeStyle/customizeCss.css",
-			"customizeCss"
+			"/appearance/themes/Tsundoku Stone/style/topbar.css",
+			"topbarCss"
 		);
 
 		setTimeout(() => ClickMonitor(), 3000); /*各种列表转xx */
@@ -831,7 +828,6 @@ function Refresh() {
 		);
 	}, 500);
 }
-
 
 window.theme = {};
 
