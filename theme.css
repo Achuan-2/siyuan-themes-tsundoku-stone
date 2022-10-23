@@ -64,6 +64,10 @@
     --b3-font-family-graph: mononoki;
     --b3-font-family-emoji: 'Win11 Emoji',"Segoe UI Emoji", "Segoe UI Symbol", "Segoe UI", "Apple Color Emoji", "Twemoji Mozilla", "Noto Color Emoji", "Android Emoji";
     --b3-font-family-math: KaTeX_Math;
+    /* 顶部工具栏 */
+    --b3-toolbar-background: #c8d5d9;
+    --b3-toolbar-blur-background: #c8d5d9;
+    --b3-toolbar-color: #5f6368;
     /* 线条 */
     /* --b3-border-color: #dfe0e1; */
     /* --b3-border-color: rgba(0, 0, 0, .1); */
@@ -227,7 +231,6 @@ body{
 #status,
 .protyle,
 .protyle-preview,
-/* .b3-typography .code-block, */
 .search__header .b3-text-field--text,
 .layout-tab-container,
 .block__icons,
@@ -248,7 +251,6 @@ body{
 .protyle-wysiwyg table thead,
 .protyle-wysiwyg table tbody tr,
 .protyle-wysiwyg [data-node-id] span[data-type='tag'],
-/* .protyle-wysiwyg .code-block, */
 div[style*="background-color: var" ],
 span[data-type~="text"][style*="background-color: var" ],
 .layout__empty,
@@ -1812,9 +1814,11 @@ div[data-subtype='t'][data-type='NodeList'] {
 ::-webkit-scrollbar-thumb{
     background-color: #d5dde2;
     background-image: none;
+    border: none;
 }
 ::-webkit-scrollbar-thumb{border-radius:0px;-webkit-box-shadow:inset 0 0 10px 10px #d5dde2;box-shadow:inset 0 0 10px 10px #d5dde2;background:unset;border-left:solid 4px transparent}
-::-webkit-scrollbar-thumb:hover{border-left:solid 0px transparent;border-radius: 5px;}
+::-webkit-scrollbar-thumb:hover{border-radius:0px;-webkit-box-shadow:inset 0 0 10px 10px #d5dde2;box-shadow:inset 0 0 10px 10px #d5dde2;background:unset;border-left:solid 4px transparent}
+/* ::-webkit-scrollbar-thumb:hover{border-left:solid 0px transparent;border-radius: 5px;} */
 
 
 .b3-dialog__container{
@@ -1913,24 +1917,28 @@ body>div.b3-dialog--open>div>div.b3-dialog__container>div:nth-child(3)>div>div.f
     background-color: transparent;
     border-bottom: 2px solid var(--b3-font-color4) !important;
 }
+#preview.protyle-wysiwyg .h1 {
+    text-align: center !important;
+}
+
+#preview.protyle-wysiwyg .h1:not(:first-child, :nth-child(2)) {
+    page-break-before: always;
+}
+
 /* 设置导出样式 */
 @media print {
     :root {
         font-family: var(--b3-font-family);
     }
 
-    .protyle-wysiwyg .h1:first-child {
-        color: #585a5a !important;
-        text-align: Left;
-        border-bottom: 2px solid #e8e9e8 !important;
-
-
+    .protyle-wysiwyg table thead,
+    .protyle-wysiwyg table tr th,
+    .protyle-wysiwyg table tbody tr,
+    .protyle-wysiwyg .code-block,
+    .protyle-wysiwyg span[data-type~=code],
+    .protyle-wysiwyg [data-node-id].bq {
+        background-image: none !important;
     }
-
-    .protyle-wysiwyg .h1:not(:first-child, :nth-child(2)) {
-        page-break-before: always;
-    }
-
 }
 
 .protyle-wysiwyg {
@@ -1942,6 +1950,27 @@ body>div.b3-dialog--open>div>div.b3-dialog__container>div:nth-child(3)>div>div.f
 .protyle-wysiwyg span[data-type~=inline-memo] {
     background-color: var(--b3-card-warning-background);
     border-bottom: 2px solid var(--b3-font-color2);
+}
+.b3-typography span[data-type~=inline-memo]::after,
+.protyle-wysiwyg span[data-type~=inline-memo]::after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 1em 1em;
+    top: 0em;
+    width: 1em;
+    height: 1em;
+    background-image: url('./src/memo.svg');
+}
+
+.tooltip--memo {
+    border-top: 3px solid #fff001;
+    background-color: #fffccf;
+    padding: 1rem 1rem;
+    font-size: 1rem;
+    color: var(--b3-theme-on-background);
+    min-width: 100px;
 }
 
 /* 代码块添加margin bottom */
